@@ -41,6 +41,8 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deploy.ultroid.tech)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bottelegram1234/Ultroid)</br>
+
 ## Deploy to Okteto
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!
 
